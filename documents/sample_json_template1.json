@@ -1,0 +1,210 @@
+{
+    "@context": {
+        "gndo": "https://d-nb.info/standards/elementset/gnd#",
+        "rdfs": "https://www.w3.org/2000/01/rdf-schema#",
+        "dc": "http://purl.org/dc/terms/",
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "schema": "https://schema.org/"
+    },
+    "dc:dataset": {
+        "dc:dateSubmitted": "ISO_DATE",
+        "dc:creator": "STRING",
+        "dc:source": "STRING",
+        "dc:publisher": {
+            "rdfs:literal": "STRING",
+            "dc:identifier": "STRING"
+            },    
+        "dc:contributor": {
+            "rdfs:literal": "STRING",
+            "dc:identifier": "STRING"
+            },
+        "dc:description": "STRING",
+        "dc:sizeOrDuration": "NATURALNUMBER"
+    },
+    "gndo:differentiatedPerson": [
+        {
+            "dc:identifier": "STRING",
+            "gndo:preferredNameOfThePerson": {
+                "gndo:forename": "STRING",
+			    "gndo:surname": "STRING",
+                "gndo:personalName": "STRING",
+                "gndo:nameAddition": "STRING",
+                "gndo:prefix": "STRING",
+                "gndo:counting": "STRING"
+                },
+            "gndo:variantNameOfThePerson": {
+                "gndo:forename": "STRING",
+			    "gndo:surname": "STRING",
+                "gndo:personalName": "STRING",
+                "gndo:nameAddition": "STRING",
+                "gndo:prefix": "STRING",
+                "gndo:counting": "STRING"
+                },
+            "gndo:affiliation": "STRING",
+            "gndo:gender": {
+                "rdfs:literal": "STRING",
+                "gndo:gndIdentifier": "URI"
+                },
+            "gndo:professionOrOccupation": [
+                    {
+                    "rdfs:literal": "STRING",
+                    "gndo:gndIdentifier": "URI"
+                    }
+                    ],
+            "gndo:functionOrRole": "STRING",
+            "gndo:academicDegree": "STRING",
+            "gndo:titleOfNobilityAsLiteral": "STRING",
+            "gndo:placeOfBirth": {
+                "rdfs:literal": "STRING",
+                "gndo:gndIdentifier": "URI"
+                },  
+            "gndo:dateOfBirth": "ISO_DATE",
+            "gndo:placeofDeath": {
+                "rdfs:literal": "STRING",
+                "gndo:gndIdentifier": "URI"
+                },
+            "gndo:dateofDeath": "ISO_DATE",
+            "gndo:associatedPlace": [
+                    {
+                    "rdfs:literal": "STRING",
+                    "gndo:gndIdentifier": "URI"
+                    }
+                ],
+            "gndo:periodOfActivity": {
+                "gndo:beginningOfPeriod": "ISO_DATE",
+                "gndo:endOfPeriod": "ISO_DATE"
+                },
+            "gndo:biographicalOrHistoricalInformation": "STRING",
+            "gndo:gndIdentifier": "URI",
+            "dc:source":  {
+                "rdfs:literal": "STRING",
+                "dc:identifier": "URI"
+                },
+            "owl:sameAs": "URI",
+            "gndo:geographicAreaCode": "URI"
+        }
+    ],
+    "gndo:placeOrGeographicName": [
+        {
+            "dc:identifier": "STRING",
+            "gndo:placeOrGeographicName": "STRING",
+            "gndo:hierarchicalSuperiorOfPlaceOrGeographicName": {
+                "rdfs:literal": "STRING",
+                "gndo:gndIdentifier": "URI"
+                },
+            "gndo:relatedPlaceOrGeographicName": [
+                    {
+                    "rdfs:literal": "STRING",
+                    "gndo:gndIdentifier": "URI"
+                    }
+                    ],
+            "gndo:Country": {
+                "rdfs:literal": "STRING",
+                "gndo:gndIdentifier": "URI"
+                },
+            "schema:geo": {
+                "schema:latitude": "DECIMALNUMBER",
+                "schema:longitude": "DECIMALNUMBER"
+                },
+            "gndo:biographicalOrHistoricalInformation": "STRING",
+            "schema:address": {
+                "schema:streetAddress": "STRING",
+                "schema:postalCode": "STRING"
+                },
+            "gndo:gndSubjectCategory":  {
+                "rdfs:literal": "STRING",
+                "gndo:gndIdentifier": "URI"
+                }, 
+            "gndo:gndIdentifier": "URI",
+            "dc:source":  {
+                "rdfs:literal": "STRING",
+                "dc:identifier": "URI"
+                },
+            "gndo:geographicAreaCode": "URI",
+            "owl:sameAs": "URI" 
+        }
+    ], 
+    "gndo:buildingOrMemorial": [
+        {
+            "dc:identifier": "STRING", 
+            "owl:sameAs": "URI",
+            "gndo:placeOrGeographicName": "STRING",
+            "gndo:preferredNameForThePlaceOrGeographicName": "STRING",
+            "gndo:variantNameForThePlaceOrGeographicName": "STRING",
+            "gndo:hierarchicalSuperiorOfPlaceOrGeographicName": {
+                "rdfs:literal": "STRING",
+                "gndo:gndIdentifier": "URI"
+                },
+            "gndo:relatedPlaceOrGeographicName": [
+                    {
+                    "rdfs:literal": "STRING",
+                    "gndo:gndIdentifier": "URI"
+                    }
+                    ],
+            "gndo:Country": {
+                "rdfs:literal": "STRING",
+                "gndo:gndIdentifier": "URI"
+                },
+            "gndo:professionalRelationship": {
+                "gndo:preferredNameOfThePerson": {
+                "gndo:forename": "STRING",
+			    "gndo:surname": "STRING",
+                "gndo:personalName": "STRING",
+                "gndo:nameAddition": "STRING",
+                "gndo:prefix": "STRING",
+                "gndo:counting": "STRING"
+                },
+                "gndo:functionOrRoleAsLiteral": "STRING",
+                "gndo:titleOfNobilityAsLiteral": "STRING",
+                "gndo:professionOrOccupation": [
+                    {
+                    "rdfs:literal": "STRING",
+                    "gndo:gndIdentifier": "URI"
+                    }
+                    ]
+                },
+            "gndo:relatedCorporateBody":{
+                "rdfs:literal": "STRING",
+                "gndo:gndIdentifier": "URI",
+                "gndo:functionOrRoleAsLiteral": "STRING"
+                },
+            "gndo:dateOfProduction": "ISO_DATE",
+            "gndo:dateOfEstablishment": "ISO_DATE",
+            "gndo:dateOfEstablishmentAndTermination": "ISO_DATE",
+            "gndo:dateOfTermination": "ISO_DATE",
+            "gndo:biographicalOrHistoricalInformation": "STRING",
+            "schema:description": "STRING",
+            "schema:address": {
+                "schema:streetAddress": "STRING",
+                "schema:postalCode": "STRING"
+                },
+            "schema:geo": {
+                "schema:latitude": "DECIMALNUMBER",
+                "schema:longitude": "DECIMALNUMBER"
+                },
+            "gndo:gndSubjectCategory":  {
+                "rdfs:literal": "STRING",
+                "gndo:gndIdentifier": "URI"
+                }, 
+            "gndo:relatedSubjectHeading":  {
+                "rdfs:literal": "STRING",
+                "gndo:gndIdentifier": "URI",
+                "schema:description": "STRING"
+                },     
+            "gndo:broaderTermInstantial": {
+                "rdfs:literal": "STRING",
+                "gndo:gndIdentifier": "URI"
+                },
+            "gndo:broaderTermPartitive": {
+                "rdfs:literal": "STRING",
+                "gndo:gndIdentifier": "URI"
+                },
+            "gndo:gndIdentifier": "URI",
+            "dc:source":  {
+                "rdfs:literal": "STRING",
+                "dc:identifier": "URI"
+                },
+            "gndo:geographicAreaCode": "URI"
+        }
+    ]
+}

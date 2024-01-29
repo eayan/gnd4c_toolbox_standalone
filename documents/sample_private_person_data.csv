@@ -1,0 +1,67 @@
+index,dc_id,forename,surname,personal_name,name_addition,prefix,counting,gender,birth_date,death_date,non_preferred_name_surname,birth_place,death_place,period_of_activity_start,period_of_activity_end,profession
+16,Q1033,Augustin Freiherr von und zu Schleuse,Schleuse,None,None,None,None,None,None,None,von der Schleiß,Not Described,Not Described,None,None,Senior des Fürststifts Kempten
+23,Q105,Gottfried Christoph ,Bernigau,None,None,None,None,None,1760-01-01,None,None None,MühlhausenThüringen,Not Described,None,None,None
+24,Q1050,Friedrich ,Schmidt,None,None,None,None,None,1757-07-12,1812-01-01,None None,Lorch,Not Described,None,None,Amtsschreiber
+35,Q1066,Carl Adolph von ,Schönberg,None,None,None,None,None,1746-01-01,None,None None,Bautzen,Not Described,None,None,"Domherr, Dompropst"
+36,Q1068,Johann Nepomuk Freiherr von ,Schönprunn,None,None,None,None,None,None,None,None None,Not Described,Not Described,None,None,Hauptmann
+49,Q1084,Johann Friedrich Wilhelm ,Schultz,None,None,None,None,None,None,None,None None,Aachen,Not Described,None,None,"Hofrat, Statthalter"
+50,Q1085,Johann Heinrich ,Schultz,None,None,None,None,None,1740-12-24,None,None None,Hamburg,Not Described,None,None,"Kaufmann, Tabakfabrikant, Tabakhändler"
+51,Q1089,NN ,Schwab,None,None,None,None,None,None,None,None None,Not Described,Not Described,None,None,"Advokat, Regierungsregistrator"
+52,Q109,Franz Ignaz ,Beutter,None,None,None,None,None,None,1798-01-01,None None,Not Described,Konstanz,None,None,"Stadtrat, Student"
+53,Q1090,None,Schwabe,None,None,None,None,None,None,None,None None,Not Described,Not Described,None,None,Oberlieutenant
+54,Q1096,Goswin ,Schweickhard,None,None,None,None,None,1743-01-01,None,None None,Not Described,Not Described,None,None,"Kapitular, Kustos, Priester"
+55,Q1097,Joseph ,Schweickhard,None,None,None,None,None,1744-12-20,None,None None,Mainz,Not Described,None,None,Hofgerichtsrat
+56,Q110,Andreas Georg Maria ,Bianchi,None,None,None,None,None,1746-07-16,1814-10-09,None None,Brienno bei Como,Rudolstadt,None,None,Handelsmann
+57,Q1100,Johann Heinrich ,Schwick,None,None,None,None,None,1759-01-01,None,None None,Not Described,Not Described,None,None,"Kaufmann, Komptoirbedienter"
+58,Q1107,Jost Christian ,von Seemen,None,None,None,None,None,1734-03-11,None,None None,Wickerode,Not Described,None,None,"Major, Werbeoffizier"
+59,Q1108,NN ,Segner,None,None,None,None,None,None,None,None None,Not Described,Not Described,None,None,Student
+60,Q1109,Leonhard ,Seiler,None,None,None,None,None,None,None,None None,Not Described,Not Described,None,None,Stadtgerichtsschreiber
+61,Q111,Carl Ludwig ,von Bibra,None,None,None,None,None,1749-10-22,1795-01-01,None None,Hildburghausen,Not Described,None,None,"Erzieher, Oberstlieutenant"
+62,Q1114,Johann Albert Edler von ,Sertz,None,None,None,None,None,1738-01-01,None,None None,Not Described,Not Described,None,None,"Kaufmann, Ritter"
+63,Q11203,NN ,Delorme,None,None,None,None,None,None,None,None None,Not Described,Not Described,None,None,None
+64,Q1121,Johannes ,Sieber,None,None,None,None,None,None,None,None None,Not Described,Not Described,None,None,Kaufmann
+65,Q1129,NN ,Smer,None,None,None,None,None,None,None,None None,Not Described,Not Described,None,None,None
+66,Q113,Michael ,Bibringer,None,None,None,None,None,None,None,None None,Not Described,Not Described,None,None,Gastwirt
+67,Q1134,NN Graf von ,Spaur,None,None,None,None,None,None,None,None None,Not Described,Not Described,None,None,Oberstjägermeister
+68,Q1135,Anton Carl Graf von ,Spaur,None,None,None,None,None,1742-01-01,1799-01-01,None None,Not Described,Not Described,None,None,"Hauptmann, Kammerherr, Major"
+69,Q1139,Franz Xaver ,Speer,None,None,None,None,None,None,None,None None,Not Described,Not Described,None,None,"Kabinettskanzlist, Kabinettssekretär"
+70,Q1141,Georg Carl Alexander von ,Sperl,None,None,None,None,None,1739-01-01,1810-01-01,None None,Not Described,Not Described,None,None,"Grenadierlieutenant, Oberstlieutenant"
+71,Q1146,Ignaz Carl von ,Spitzel,None,None,None,None,None,1732-01-01,None,None None,Not Described,Not Described,None,None,"Grenzmautner, Gutsherr, Hofrat, Kastner, Landrichter"
+72,Q1149,Lambert de ,St Julien,None,None,None,None,None,1754-01-01,1837-01-01,None None,Lüttich,Not Described,None,None,"Geheimer Referendar, Geheimsekretär, Oberstlieutenant, Revue-Inspektor"
+73,Q115,Johann Theobald ,Bickes,None,None,None,None,None,None,None,None None,Not Described,Not Described,None,None,"Kurpfälzischer Rat, Oberamtsadvokat"
+74,Q1152,Joseph Freiherr von ,Stadler,None,None,None,None,None,None,None,None None,Not Described,Not Described,None,None,"Gefällamtsadministrator, Gerichtsschreiber, Rentkammerrat"
+75,Q1153,Peter ,Stamm,None,None,None,None,None,None,None,None None,Not Described,Not Described,None,None,Geheimer Sekretär
+76,Q1154,Franz Xaver Gundacker Reichsgraf Starhemberg,von Starhemberg,None,None,None,None,None,1747-01-01,1804-01-01,None None,Not Described,Not Described,None,None,"Kämmerer, Regierungsrat"
+77,Q1156,Georg Anton von ,Starkmann,None,None,None,None,None,1755-01-01,1787-01-01,None None,Not Described,Not Described,None,None,"Hof- und Regierungsrat, Hof- und Regierungsratsakzessist, Hof- und Regierungsratssekretär"
+78,Q1157,Johann Daniel ,Staumer von Jaster,None,None,None,None,None,1736-01-01,None,None None,Not Described,Not Described,None,None,"Grenadierhauptmann, Hoftruchseß, Oberstlieutenant"
+79,Q1158,Albrecht ,Steer,None,None,None,None,None,None,None,None None,Not Described,Not Described,None,None,"Abt, Brauverwalter, Schreiber"
+80,Q1159,Franz Anton ,Steger,None,None,None,None,None,1754-01-01,None,None None,Not Described,Not Described,None,None,Jurist
+81,Q116,Jacob ,Biechele,None,None,None,None,None,1763-02-19,None,None None,Eichstätt,Not Described,None,None,Student der Rechte
+82,Q1160,Franz Xaver Freiherr von ,Stegner,None,None,None,None,None,None,None,None None,Not Described,Not Described,None,None,Bankier
+83,Q1162,Christian August ,Stein,None,None,None,None,None,1755-01-01,None,None None,Not Described,Not Described,None,None,"Informator, Praktikant am Reichskammergericht"
+84,Q1166,Nikolaus Hyacinth ,Stengel,None,None,None,None,None,1757-01-01,None,None None,Wiesloch,Not Described,None,None,"Archivar, Gefällsverweser, Oberbürgermeister, Stadtschultheiß"
+85,Q1168,Anton ,Stich,None,None,None,None,None,1753-01-01,None,None None,Not Described,Not Described,None,None,Repetitor
+86,Q1169,Ernst Wilhelm Hermann ,Stieler,None,None,None,None,None,1769-03-26,1815-01-08,None None,Gotha,Not Described,None,None,"Hofmedicus, Student"
+87,Q1171,Franz Xaver ,Stoll,None,None,None,None,None,None,None,None None,Not Described,Not Described,None,None,Hofmeister
+88,Q1173,NN ,Stopporno,None,None,None,None,None,None,None,None None,Not Described,Not Described,None,None,Spediteur
+89,Q1175,NN von ,Straßberger,None,None,None,None,None,None,None,None None,Not Described,Not Described,None,None,None
+90,Q1180,Franz Xaver Joseph Freiherr von ,Stroehl,None,None,None,None,None,None,None,None None,Not Described,Not Described,None,None,"Domdechant, Freiherr"
+91,Q1181,Carl Eligius Freiherr von ,Strommer,None,None,None,None,None,None,1810-01-01,None None,Not Described,Not Described,None,None,"Hofkavalier, Hofrat, Kammerherr"
+92,Q1182,Johann Stephan Nepomuk von ,Stubenrauch,None,None,None,None,None,1748-01-01,1816-01-01,None None,Not Described,Not Described,None,None,"Generallandesdirektionsrat, Hofkammerdirektor, Hofkammerrat, Kommerzienrat"
+110,Q1212,NN Tiemann,Thiemen,None,None,None,None,None,None,None,Tiemann,Not Described,Not Described,None,None,None
+111,Q1213,Constantin Martin Joseph Ballan von ,Thiereck,None,None,None,None,None,None,1807-01-01,None None,Not Described,Not Described,None,None,"Hof- und Geheimer Rat, Hofkammersekretär, Pfleger"
+112,Q1214,Nicolaus ,Thierry,None,None,None,None,None,1758-01-01,1817-01-01,None None,Not Described,Not Described,None,None,"Schöffe, Sekretär"
+113,Q1215,W ,Thombrinck,None,None,None,None,None,None,1793-01-01,None None,Not Described,Not Described,None,None,Kaufmann
+114,Q1218,Johann Georg Gottfried ,Thwingert,None,None,None,None,None,None,1796-01-01,None None,Not Described,Not Described,None,None,"Apotheker, Botaniker, Kornhausverwalter"
+115,Q1219,Franz Friedrich ,Tiedemann,None,None,None,None,None,1752-01-01,1836-01-01,None None,Not Described,Not Described,None,None,"Bürgermeister, Obergerichtssekretär, Praktikant am Reichskammergericht, Ratsherr"
+116,Q1224,Johann Jacob ,Touby,None,None,None,None,None,1738-01-01,1784-01-01,None None,Not Described,Not Described,None,None,Stadtpfarrer
+117,Q1226,Caspar Emanuel Graf ,Trapp,None,None,None,None,None,1726-10-10,1814-01-01,None None,Not Described,Not Described,None,None,"Kämmerer, Regierungsrat"
+118,Q1231,NN ,Treppel,None,None,None,None,None,None,None,None None,Not Described,Not Described,None,None,"Abt, Schulinspektor"
+119,Q1232,Johann Friedrich Wilhelm ,Triebel,None,None,None,None,None,1752-01-01,None,None None,Not Described,Not Described,None,None,Tabakfabrikant
+120,Q1234,Askanius Clemens Reichsgraf von ,Triva,None,None,None,None,None,1750-01-01,1815-01-01,None None,Not Described,Not Described,None,None,Regierungs- und Kommerzienrat
+121,Q1236,Johann Caspar Tromsdorf,Trommsdorff,None,None,None,None,None,1747-11-29,1790-05-02,None None,Erfurt,Not Described,None,None,"Magister Artium, Pfarrer"
+122,Q1238,Franz Jacob ,Truc,None,None,None,None,None,1741-01-01,1787-01-01,None None,Straßburg,Not Described,None,None,Kaufmann
+123,Q1239,Johann David Baptist ,Trummer,None,None,None,None,None,None,1823-01-01,None None,Not Described,Not Described,None,None,"Konzipist, Registrator, Sekretär"
+124,Q124,Friedrich Wilhelm ,Bleibtreu,None,None,None,None,None,1766-01-01,None,None None,Neuwied,Not Described,None,None,"Kaufmann, Komptoirbedienter"
+125,Q1240,Andreas Anton Johann Baptist von ,Turbert,None,None,None,None,None,1745-01-01,1816-01-01,None None,Not Described,Not Described,None,None,"Fähnrich, Oberlieutenant, Ritter, Stabscapitain, Unterlieutenant"
+126,Q1242,Franz ,Tussy,None,None,None,None,None,1750-01-01,None,None None,Not Described,Not Described,None,None,"Hofmusiker, Sprachlehrer"

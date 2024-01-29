@@ -1,0 +1,6 @@
+import streamlit as st
+from streamlit_player import st_player
+
+st.subheader("Über GND4C")
+st.write("Gesamtziel des Projektes GND4C ist die Öffnung der bislang auf eine bibliothekarische Nutzung ausgerichteten Gemeinsamen Normdatei (GND) für Einrichtungen nicht-bibliothekarischer Sparten wie Museen, Archive, Denkmalbehörden oder wissenschaftliche Einrichtungen. Das Vorhaben schafft hierfür die entsprechenden organisatorischen und technischen Voraussetzungen. Damit reagiert das Projekt auf die seit langer Zeit bestehende Anforderung der Kulturerbe-Einrichtungen insgesamt, eine gemeinsame, spartenübergreifende Grundlage für die Normierung von Kulturdatentypen und dem entsprechenden Vokabular zu schaffen. Auf diese Weise wird eine auf Normdaten basierte großflächige Verlinkung von Kulturdaten unterstützt, wobei insbesondere die Gewährleistung deren eindeutiger Identifizierbarkeit und maschinelle Interpretierbarkeit ein erheblicher Gewinn für datengestützte Forschungsmethoden (insbesondere für Linked Data-basierte Ansätze) darstellen wird. Für weitere Informationen s.[GND für Kulturdaten (GND4C) bei der Deutschen Nationalbibliothek (DNB)](https://wiki.dnb.de/pages/viewpage.action?pageId=134055796)")
+st_player("https://youtu.be/6zb_eIOUJ-M")
