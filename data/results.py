@@ -4,7 +4,6 @@ from sqlalchemy import create_engine
 from st_aggrid import AgGrid, JsCode
 from st_aggrid.grid_options_builder import GridOptionsBuilder
 import numpy as np
-from data.agstyler import PINLEFT, PRECISION_TWO, draw_grid
 import uuid
 import time
 import datetime
